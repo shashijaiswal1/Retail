@@ -1,0 +1,46 @@
+#top {
+    height: 30vh;
+}
+
+#top::before {
+    height: 30vh;
+}
+
+#top h1 {
+    font-size: 1.7rem;
+    left: 5%;
+    top: 7vh;
+    width: 50%;
+}
+
+.content p{
+    font-size: 1rem;
+}
+
+.content #bgs img{
+padding: 0;
+}
+
+#retail-text h1 {
+    font-size: 1.3rem;
+}
+
+#industries h1 {
+    font-size: 1.3rem;
+}
+
+.box {
+    width: 50%;
+    height: 50%;
+    margin: 10px 5px;
+}
+
+.box img {
+    width: 100%;
+}
+
+.box .btn{
+    border-radius: 40%;
+    width: 62%;
+     font-size: 0.9rem;
+ }

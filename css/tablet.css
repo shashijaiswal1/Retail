@@ -1,0 +1,32 @@
+#top {
+    height: 55vh;
+    /* width: 72%; */
+}
+
+#top::before {
+    height: 55vh;
+    /* width: 72%; */
+}
+
+#top h1{
+    font-size: 3rem;
+    top: 11vh;
+}
+
+#retail-text h1{
+font-size: 2.1rem;
+}
+
+.content #bgs img{
+    padding: 0px 10px;
+    width: 70%;
+    height: 40%;
+}
+
+#industries h1{
+font-size: 2.1rem;
+}
+
+
+
+
